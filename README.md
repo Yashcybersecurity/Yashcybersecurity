@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a dedicated Computer Science and Engineering student with a specialisation in cybersecurity at Chennai Institute of Technology. The rapid escalation of cyberattacks globally, and particularly in India, has highlighted the critical need for robust cybersecurity measures. My goal is to protect organizations from these threats by developing innovative and effective solutions that address the ever-evolving challenges in the cybersecurity landscape. 
+
+I bring a strong foundation in various programming languages, including C ,Python, MySQL, and C++, coupled with a deep understanding of network security and algorithms. My hands-on experience in cybersecurity projects has honed my analytical and problem-solving skills, enabling me to propose and implement strategies that enhance the software infrastructure of organizations.
+
+As an avid learner, I am passionate about expanding my knowledge across diverse topics and fields. I am eager to connect with professionals in the cybersecurity industry to exchange ideas, gain valuable insights, and pursue internship opportunities that will further deepen my expertise. Let's collaborate to safeguard the digital future!
